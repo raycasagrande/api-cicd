@@ -15,7 +15,7 @@ public class StatusController {
     public Map<String, String> status(){
         return Map.of(
                 "mensagem", "API funcionando na AWS",
-                "versao", "1.0"
+                "versao", "2.0"
         );
     }
 
